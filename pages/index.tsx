@@ -2,6 +2,8 @@ import Head from 'next/head'
 
 export default function Page() {
   const ogImageArr = [
+    'pycon-id-tailwind',
+    'pycon-image-svg',
     'custom-font', 
     'dynamic-image',
     'emoji',
